@@ -1,0 +1,6 @@
+params:
+- mode: release
+  mysql_url: mysql+pymysql://root:liuxiang@127.0.0.1:3306/parker?charset=utf8mb4
+  download_path: /home/liuxianga/parker_video
+  video_number_per_page: 1
+  download_timeout: 3600

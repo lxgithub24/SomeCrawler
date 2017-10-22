@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../baisibudejie/.idea/baisibudejie.iml" filepath="$PROJECT_DIR$/../baisibudejie/.idea/baisibudejie.iml" />
+      <module fileurl="file://$USER_HOME$/counter/.idea/counter.iml" filepath="$USER_HOME$/counter/.idea/counter.iml" />
+      <module fileurl="file://$USER_HOME$/fav_site/.idea/fav_site.iml" filepath="$USER_HOME$/fav_site/.idea/fav_site.iml" />
+      <module fileurl="file://$USER_HOME$/fav_site/.idea/fav_site_bk.iml" filepath="$USER_HOME$/fav_site/.idea/fav_site_bk.iml" />
+      <module fileurl="file://$USER_HOME$/first_local/.idea/first_local.iml" filepath="$USER_HOME$/first_local/.idea/first_local.iml" />
+      <module fileurl="file://$USER_HOME$/grpc_protos/.idea/grpc_protos.iml" filepath="$USER_HOME$/grpc_protos/.idea/grpc_protos.iml" />
+      <module fileurl="file://$USER_HOME$/grpc/examples/python/helloworld/.idea/helloworld.iml" filepath="$USER_HOME$/grpc/examples/python/helloworld/.idea/helloworld.iml" />
+      <module fileurl="file://$USER_HOME$/ivideo/.idea/ivideo.iml" filepath="$USER_HOME$/ivideo/.idea/ivideo.iml" />
+      <module fileurl="file://$USER_HOME$/live_photo/.idea/live_photo.iml" filepath="$USER_HOME$/live_photo/.idea/live_photo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../minitask/.idea/minitask.iml" filepath="$PROJECT_DIR$/../minitask/.idea/minitask.iml" />
+      <module fileurl="file://$USER_HOME$/msgcenter/.idea/msgcenter.iml" filepath="$USER_HOME$/msgcenter/.idea/msgcenter.iml" />
+      <module fileurl="file://$USER_HOME$/parker/.idea/parker.iml" filepath="$USER_HOME$/parker/.idea/parker.iml" />
+      <module fileurl="file://$USER_HOME$/paysitter/.idea/paysitter.iml" filepath="$USER_HOME$/paysitter/.idea/paysitter.iml" />
+      <module fileurl="file://$USER_HOME$/prebaidureci/.idea/prebaidureci.iml" filepath="$USER_HOME$/prebaidureci/.idea/prebaidureci.iml" />
+      <module fileurl="file://$USER_HOME$/publish_list/.idea/publish_list.iml" filepath="$USER_HOME$/publish_list/.idea/publish_list.iml" />
+      <module fileurl="file://$USER_HOME$/scrapy-master/.idea/scrapy-master.iml" filepath="$USER_HOME$/scrapy-master/.idea/scrapy-master.iml" />
+      <module fileurl="file://$USER_HOME$/tutorial/.idea/tutorial.iml" filepath="$USER_HOME$/tutorial/.idea/tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>

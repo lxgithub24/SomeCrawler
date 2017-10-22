@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa4741ad-ab54-4e03-a1d9-b2eaa1130435" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/live_photo/tests/fav_site.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/grpc_protos/site_card.proto" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/counter/rpc_services/pb/counter_pb2.py" afterPath="$USER_HOME$/counter/rpc_services/pb/counter_pb2.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/fav_site/fav_site/models/mysql_model_v2.py" afterPath="$USER_HOME$/fav_site/fav_site/models/mysql_model_v2.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/live_photo/live_photo/models/qiniu_op.py" afterPath="$USER_HOME$/live_photo/live_photo/models/qiniu_op.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/live_photo/tests/test_20170615.py" afterPath="$USER_HOME$/live_photo/tests/test_20170615.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/live_photo/wsgiapp.py" afterPath="$USER_HOME$/live_photo/wsgiapp.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/prebaidureci/.idea/prebaidureci.iml" afterPath="$USER_HOME$/prebaidureci/.idea/prebaidureci.iml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/prebaidureci/prebaidureci/biz/query_opt.py" afterPath="$USER_HOME$/prebaidureci/prebaidureci/biz/query_opt.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/prebaidureci/prebaidureci/core/__init__.py" afterPath="$USER_HOME$/prebaidureci/prebaidureci/core/__init__.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/prebaidureci/prebaidureci/core/config.py" afterPath="$USER_HOME$/prebaidureci/prebaidureci/core/config.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/prebaidureci/prebaidureci/views/default.py" afterPath="$USER_HOME$/prebaidureci/prebaidureci/views/default.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/publish_list/wsgiapp.py" afterPath="$USER_HOME$/publish_list/wsgiapp.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test.coverage" NAME="Unittests for test_interface.test Coverage Results" MODIFIED="1501608247106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1503641387884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/fav_site/apis" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_robots_delete__2_.coverage" NAME="Unittests for test_interface.test_robots_delete (2) Coverage Results" MODIFIED="1501636744935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$test_interface.coverage" NAME="test_interface Coverage Results" MODIFIED="1503453785395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/untitled$test_interface.coverage" NAME="test_interface Coverage Results" MODIFIED="1501832299133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$test_interface_v2.coverage" NAME="test_interface_v2 Coverage Results" MODIFIED="1503574766478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test__3_.coverage" NAME="Unittests for test_interface.test (3) Coverage Results" MODIFIED="1501636137152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$test_20170823.coverage" NAME="test_20170823 Coverage Results" MODIFIED="1503460950039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/untitled$a2.coverage" NAME="a2 Coverage Results" MODIFIED="1501645135110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a1/a2" />
+    <SUITE FILE_PATH="coverage/untitled$wsgiapp__1_.coverage" NAME="wsgiapp (1) Coverage Results" MODIFIED="1501982355915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/tmp/fav_site_bk" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_robots_delete.coverage" NAME="Unittests for test_interface.test_robots_delete Coverage Results" MODIFIED="1501638925991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$consumer_mq.coverage" NAME="consumer_mq Coverage Results" MODIFIED="1503627682286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/scripts" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_test_interface_py.coverage" NAME="Unittests in test_interface.py Coverage Results" MODIFIED="1501823192903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$tmp__1_.coverage" NAME="tmp (1) Coverage Results" MODIFIED="1503395289348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$redis_model.coverage" NAME="redis_model Coverage Results" MODIFIED="1503582127072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/fav_site/models" />
+    <SUITE FILE_PATH="coverage/untitled$80s_spider.coverage" NAME="80s_spider Coverage Results" MODIFIED="1502084415564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/tutorial/tutorial/spiders" />
+    <SUITE FILE_PATH="coverage/untitled$tmp2.coverage" NAME="tmp2 Coverage Results" MODIFIED="1501643634912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/fav_site/apis" />
+    <SUITE FILE_PATH="coverage/tmp$Unittests_in_test_budejie_py.coverage" NAME="Unittests in test_budejie.py Coverage Results" MODIFIED="1502168174156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/parker/test" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_test_20170615_py.coverage" NAME="Unittests in test_20170615.py Coverage Results" MODIFIED="1501637274872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/tmp/live_photo/tests" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_site_get_id_resource__1_.coverage" NAME="Unittests for test_interface.test_site_get_id_resource (1) Coverage Results" MODIFIED="1501607777004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/untitled$b.coverage" NAME="b Coverage Results" MODIFIED="1501645042974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/b1" />
+    <SUITE FILE_PATH="coverage/tmp$sitewhitelistCRUD.coverage" NAME="sitewhitelistCRUD Coverage Results" MODIFIED="1503287863424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/fav_site/apis" />
+    <SUITE FILE_PATH="coverage/tmp$test_download_upload.coverage" NAME="test_download_upload Coverage Results" MODIFIED="1503397345374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$constants.coverage" NAME="constants Coverage Results" MODIFIED="1502271280446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/live_photo/live_photo/core" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_20170615_test.coverage" NAME="Unittests for test_20170615.test Coverage Results" MODIFIED="1501636896933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/tmp/live_photo/tests" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test__1_.coverage" NAME="Unittests for test_interface.test (1) Coverage Results" MODIFIED="1501608400578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_site_get_id_resource.coverage" NAME="Unittests for test_interface.test_site_get_id_resource Coverage Results" MODIFIED="1501636251812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/untitled$wsgiapp.coverage" NAME="wsgiapp Coverage Results" MODIFIED="1501942135787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_site_get_resources__1_.coverage" NAME="Unittests for test_interface.test_site_get_resources (1) Coverage Results" MODIFIED="1501608414266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_site_post.coverage" NAME="Unittests for test_interface.test_site_post Coverage Results" MODIFIED="1501637679283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/untitled$site.coverage" NAME="site Coverage Results" MODIFIED="1501601836050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/fav_site/apis" />
+    <SUITE FILE_PATH="coverage/untitled$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1502096414871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_robots_put.coverage" NAME="Unittests for test_interface.test_robots_put Coverage Results" MODIFIED="1501636185880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_site_get_resources.coverage" NAME="Unittests for test_interface.test_site_get_resources Coverage Results" MODIFIED="1501608061505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$test_api.coverage" NAME="test_api Coverage Results" MODIFIED="1502360017195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/live_photo/tests" />
+    <SUITE FILE_PATH="coverage/untitled$aa.coverage" NAME="aa Coverage Results" MODIFIED="1501992019903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/tutorial/tutorial/spiders" />
+    <SUITE FILE_PATH="coverage/untitled$a.coverage" NAME="a Coverage Results" MODIFIED="1501644717488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tmp$uploadpic2qiniu.coverage" NAME="uploadpic2qiniu Coverage Results" MODIFIED="1503393475972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/fav_site/biz" />
+    <SUITE FILE_PATH="coverage/tmp$flv_uku_video.coverage" NAME="flv_uku_video Coverage Results" MODIFIED="1502179266840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../baisibudejie" />
+    <SUITE FILE_PATH="coverage/tmp$get_video.coverage" NAME="get_video Coverage Results" MODIFIED="1502177954790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../baisibudejie" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test__2_.coverage" NAME="Unittests for test_interface.test (2) Coverage Results" MODIFIED="1501608530037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_robots_delete__1_.coverage" NAME="Unittests for test_interface.test_robots_delete (1) Coverage Results" MODIFIED="1501636222438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$Unittests_in_test_20170615_py.coverage" NAME="Unittests in test_20170615.py Coverage Results" MODIFIED="1502361789033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/live_photo/tests" />
+    <SUITE FILE_PATH="coverage/untitled$crawl_80s.coverage" NAME="crawl_80s Coverage Results" MODIFIED="1502097052396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tmp$crawl_pic2url.coverage" NAME="crawl_pic2url Coverage Results" MODIFIED="1503392869992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/fav_site/biz" />
+    <SUITE FILE_PATH="coverage/tmp$test.coverage" NAME="test Coverage Results" MODIFIED="1502513806163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../minitask/tests" />
+    <SUITE FILE_PATH="coverage/tmp$mq_model.coverage" NAME="mq_model Coverage Results" MODIFIED="1503564834191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/fav_site/models" />
+    <SUITE FILE_PATH="coverage/tmp$qiniu_op.coverage" NAME="qiniu_op Coverage Results" MODIFIED="1502288367421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/live_photo/live_photo/models" />
+    <SUITE FILE_PATH="coverage/tmp$wsgiapp.coverage" NAME="wsgiapp Coverage Results" MODIFIED="1503648283239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_robots_post__1_.coverage" NAME="Unittests for test_interface.test_robots_post (1) Coverage Results" MODIFIED="1501606480072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/untitled$t.coverage" NAME="t Coverage Results" MODIFIED="1501828665536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$read_csv.coverage" NAME="read_csv Coverage Results" MODIFIED="1503485375156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$bsbdj.coverage" NAME="bsbdj Coverage Results" MODIFIED="1502174961323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../baisibudejie" />
+    <SUITE FILE_PATH="coverage/tmp$supplement.coverage" NAME="supplement Coverage Results" MODIFIED="1502677196303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../minitask/supplement" />
+    <SUITE FILE_PATH="coverage/tmp$Unittests_for_test_20170615_test_livephoto.coverage" NAME="Unittests for test_20170615.test_livephoto Coverage Results" MODIFIED="1502359110580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/live_photo/tests" />
+    <SUITE FILE_PATH="coverage/tmp$flv2mp4.coverage" NAME="flv2mp4 Coverage Results" MODIFIED="1502461678834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../minitask/tests" />
+    <SUITE FILE_PATH="coverage/tmp$rpc_client_user_info.coverage" NAME="rpc_client_user_info Coverage Results" MODIFIED="1503647983804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/fav_site/models" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_site_get_id_resource__2_.coverage" NAME="Unittests for test_interface.test_site_get_id_resource (2) Coverage Results" MODIFIED="1501607887570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+    <SUITE FILE_PATH="coverage/tmp$tmp__2_.coverage" NAME="tmp (2) Coverage Results" MODIFIED="1503307467644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/fav_site/apis" />
+    <SUITE FILE_PATH="coverage/tmp$request_qiniu_gcid.coverage" NAME="request_qiniu_gcid Coverage Results" MODIFIED="1503327243901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/fav_site/biz" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_test_interface_test_robots_post.coverage" NAME="Unittests for test_interface.test_robots_post Coverage Results" MODIFIED="1501606460733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/fav_site/tests" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="site_store.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/fav_site/fav_site/apis/site_store.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1560">
+              <caret line="81" column="35" lean-forward="false" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+              <folding>
+                <element signature="e#22#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rpc_client_user_info.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/fav_site/fav_site/models/rpc_client_user_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/fav_site/fav_site/models/xrpc/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+              <folding>
+                <element signature="e#47#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_info_pb2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/fav_site/fav_site/models/pb/user_info_pb2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql_model_v2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/fav_site/fav_site/models/mysql_model_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="67" column="24" lean-forward="false" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+              <folding>
+                <element signature="e#14#28#0" expanded="true" />
+                <marker date="1503648282934" expanded="true" signature="670:794" ph="INSERT INTO `site_pub`... " />
+                <marker date="1503648282934" expanded="true" signature="1237:1245" ph="SELECT `uid`... site_pub" />
+                <marker date="1503648282934" expanded="true" signature="1237:1317" ph="SELECT `id`,... site_pub" />
+                <marker date="1503648282934" expanded="true" signature="1237:1341" ph="SELECT `id`,... site_pub" />
+                <marker date="1503648282934" expanded="true" signature="2132:2209" ph="SELECT `uid`... site_pub" />
+                <marker date="1503648282934" expanded="true" signature="2132:2234" ph="SELECT `uid`... site_pub" />
+                <marker date="1503648282934" expanded="true" signature="2917:3046" ph="SELECT `uid`... site_pub" />
+                <marker date="1503648282934" expanded="true" signature="3439:3489" ph="SELECT `uid`... site_pub" />
+                <marker date="1503648282934" expanded="true" signature="3587:3621" ph="DELETE FROM " />
+                <marker date="1503648282934" expanded="true" signature="3587:3629" ph="DELETE FROM " />
+                <marker date="1503648282934" expanded="true" signature="3927:4010" ph="UPDATE `site... " />
+                <marker date="1503648282934" expanded="true" signature="4732:4838" ph="INSERT INTO `site_store`... " />
+                <marker date="1503648282934" expanded="true" signature="5545:5651" ph="SELECT `peer... site_store" />
+                <marker date="1503648282934" expanded="true" signature="5545:5689" ph="SELECT `peer... site_store" />
+                <marker date="1503648282934" expanded="true" signature="6007:6052" ph="DELETE FROM " />
+                <marker date="1503648282934" expanded="true" signature="6214:6283" ph="DELETE FROM " />
+                <marker date="1503648282934" expanded="true" signature="6466:6543" ph="SELECT `id`,... site_pub" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rpc_client_user_info.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/fav_site/rpc_services/rpc_client_user_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="remote_grpc_counter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/fav_site/fav_site/models/remote_grpc_counter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="counter_pb2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/fav_site/fav_site/models/pb/counter_pb2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3180">
+              <caret line="159" column="14" lean-forward="false" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redis_model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/fav_site/fav_site/models/redis_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1860">
+              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cursor</find>
+      <find>todo</find>
+      <find>MQClientBase</find>
+      <find>hgeta</find>
+      <find>test_sitewhitelist_post</find>
+      <find>test_query_white_list</find>
+      <find>store_de</find>
+      <find>collect</find>
+      <find>site_pub</find>
+      <find>site_store</find>
+      <find>unix</find>
+      <find>md</find>
+      <find>payl</find>
+      <find>site_pub_batch_get</find>
+      <find>id</find>
+      <find>id_li</find>
+      <find>order</find>
+      <find>urlsi</find>
+      <find>string</find>
+      <find>ban</find>
+      <find>get_praise</find>
+      <find>update_score</find>
+      <find>get_pic</find>
+      <find>handle_msg</find>
+      <find>random</find>
+      <find>have_favorite</find>
+      <find>&lt;&lt;</find>
+      <find>user</find>
+      <find>use</find>
+      <find>us</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>video_dict</replace>
+      <replace>print(</replace>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/fav_site" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/fav_site/tests/read" />
+        <option value="$USER_HOME$/fav_site/tests/tmp.py" />
+        <option value="$USER_HOME$/fav_site/tests/test_download_upload.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/models/remote_grpc_topic.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/models/ORM.py" />
+        <option value="$USER_HOME$/fav_site/slutils/messagequeue.py" />
+        <option value="$USER_HOME$/fav_site/slutils/mysql.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/callback_site_pub.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/deleteUserFavSite.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/getUserFavSite.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/recommend_system.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/site.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/site_detail_spider_callback.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/biz/crawl_pic2url.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/biz/gen_recommend_info.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/biz/gen_site_response.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/biz/query_opt.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/biz/send_audit.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/biz/uploadpic2qiniu.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/core/config_client.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/core/errorcode.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/core/exceptions.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/core/misc.py" />
+        <option value="$USER_HOME$/fav_site/tests/test_20170823.py" />
+        <option value="$USER_HOME$/fav_site/tests/read_csv.py" />
+        <option value="$USER_HOME$/fav_site/tests/12.csv" />
+        <option value="$USER_HOME$/fav_site/tests/test_interface.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/sitewhitelistCRUD.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/biz/get_host.py" />
+        <option value="$USER_HOME$/fav_site/tests/121.csv" />
+        <option value="$USER_HOME$/fav_site/scripts/db_op.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/models/mq_model.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/models/redis_cache.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/biz/request_qiniu_gcid.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/biz/getreport_metadata.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/robots.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/models/redis_model.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/biz/add_ban_user.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/ban_user.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/core/constants.py" />
+        <option value="$USER_HOME$/fav_site/scripts/consumer_mq.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/core/config.py" />
+        <option value="$USER_HOME$/fav_site/wsgiapp.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/random_site.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/models/mysql_model.py" />
+        <option value="$USER_HOME$/fav_site/tests/test_interface_v2.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/tmp.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/models/remote_grpc_counter.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/models/rpc_client_user_info.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/apis/site_store.py" />
+        <option value="$USER_HOME$/fav_site/fav_site/models/mysql_model_v2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="28" />
+    <option name="width" value="1718" />
+    <option name="height" value="809" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rpc_services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rpc_services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xrpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rpc_services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xrpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fav_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/prebaidureci" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../minitask/minitask" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/b1/a1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/fav_site/fav_site/models/pb" />
+      <recent name="$USER_HOME$/fav_site/fav_site/models" />
+      <recent name="$USER_HOME$/fav_site/tests" />
+      <recent name="$USER_HOME$/fav_site" />
+      <recent name="$USER_HOME$/grpc/examples/python/helloworld" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.wsgiapp">
+    <configuration default="false" name="consumer_mq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/fav_site/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fav_site" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/fav_site/scripts/consumer_mq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="redis_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/fav_site/fav_site/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fav_site" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/fav_site/fav_site/models/redis_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/fav_site/fav_site/apis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fav_site" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/fav_site/fav_site/apis/tmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="rpc_client_user_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/fav_site/fav_site/models" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fav_site" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/fav_site/fav_site/models/rpc_client_user_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="wsgiapp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/fav_site" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fav_site" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/fav_site/wsgiapp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fav_site" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fav_site" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fav_site" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="live_photo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="fav_site" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fav_site" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fav_site" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.consumer_mq" />
+      <item index="1" class="java.lang.String" itemvalue="Python.redis_model" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tmp" />
+      <item index="3" class="java.lang.String" itemvalue="Python.rpc_client_user_info" />
+      <item index="4" class="java.lang.String" itemvalue="Python.wsgiapp" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.wsgiapp" />
+        <item index="1" class="java.lang.String" itemvalue="Python.rpc_client_user_info" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="3" class="java.lang.String" itemvalue="Python.consumer_mq" />
+        <item index="4" class="java.lang.String" itemvalue="Python.redis_model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa4741ad-ab54-4e03-a1d9-b2eaa1130435" name="Default" comment="" />
+      <created>1501600780250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501600780250</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_20170615_py - 2017.08.10 at 18h 10m 39s.xml">
+      <configuration name="Unittests in test_20170615.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_20170615_py - 2017.08.10 at 18h 17m 57s.xml">
+      <configuration name="Unittests in test_20170615.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_20170615_py - 2017.08.10 at 18h 18m 45s.xml">
+      <configuration name="Unittests in test_20170615.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_20170615_py - 2017.08.10 at 18h 19m 10s.xml">
+      <configuration name="Unittests in test_20170615.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_20170615_py - 2017.08.10 at 18h 19m 17s.xml">
+      <configuration name="Unittests in test_20170615.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_20170615_py - 2017.08.10 at 18h 27m 16s.xml">
+      <configuration name="Unittests in test_20170615.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_20170615_py - 2017.08.10 at 18h 38m 35s.xml">
+      <configuration name="Unittests in test_20170615.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_20170615_py - 2017.08.10 at 18h 43m 09s.xml">
+      <configuration name="Unittests in test_20170615.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_interface_py - 2017.08.02 at 12h 15m 42s.xml">
+      <configuration name="Unittests in test_interface.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_interface_py - 2017.08.04 at 13h 06m 34s.xml">
+      <configuration name="Unittests in test_interface.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="28" width="1718" height="809" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21428572" sideWeight="0.45839638" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272101" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27669346" sideWeight="0.50213903" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.49759904" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7700454" sideWeight="0.49304813" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969988" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18247299" sideWeight="0.5416036" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4614221" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="132" y="227" width="1518" height="609" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32526475" sideWeight="0.49786097" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/msgcenter/msgcenter/apis/api_msgcenter.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/fav_site/fav_site/models/mysql_model.py</url>
+          <line>258</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="37" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/fav_site/tests/whitelist.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/tests/read_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/tests/12.csv" />
+    <entry file="file://$USER_HOME$/fav_site/tests/test_interface.py" />
+    <entry file="file://$USER_HOME$/fav_site/fav_site/biz/get_host.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/tests/121.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/scripts/db_op.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="55" column="39" lean-forward="true" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/apis/site.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/site-packages/flask/blueprints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="155" column="8" lean-forward="false" selection-start-line="155" selection-start-column="8" selection-end-line="155" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/prebaidureci/prebaidureci/models/mysql_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/prebaidureci/prebaidureci/models/redis_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/core/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/models/redis_cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/biz/getreport_metadata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/apis/recommend_system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/slutils/messagequeue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib64/python2.7/multiprocessing/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="314" column="1" lean-forward="true" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/apis/sitewhitelistCRUD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/biz/add_ban_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="29" column="65" lean-forward="false" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/apis/ban_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/counter/counter/models/short_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="187" column="23" lean-forward="false" selection-start-line="187" selection-start-column="23" selection-end-line="187" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/counter/scripts/update_praise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="37" column="37" lean-forward="false" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/biz/send_audit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/models/mq_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/scripts/consumer_mq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/core/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/apis/robots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/wsgiapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/python2.7/site-packages/redis-2.10.5-py2.7.egg!/redis/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="664" column="0" lean-forward="false" selection-start-line="664" selection-start-column="0" selection-end-line="664" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/python2.7/site-packages/redis-2.10.5-py2.7.egg!/redis/_compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/python2.7/site-packages/redis-2.10.5-py2.7.egg!/redis/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="636" column="0" lean-forward="false" selection-start-line="636" selection-start-column="0" selection-end-line="636" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/models/mysql_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="266" column="0" lean-forward="false" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
+          <folding>
+            <marker date="1503639498506" expanded="true" signature="895:942" ph="SELECT %s fr... " />
+            <marker date="1503639498506" expanded="true" signature="1052:1093" ph="SELECT count... fav_site" />
+            <marker date="1503639498506" expanded="true" signature="2057:2094" ph="select %s fr... " />
+            <marker date="1503639498506" expanded="true" signature="3032:3070" ph="insert into fav_site... " />
+            <marker date="1503639498506" expanded="true" signature="4014:4076" ph="insert into fav_site... " />
+            <marker date="1503639498506" expanded="true" signature="4477:4509" ph="DELETE FROM " />
+            <marker date="1503639498506" expanded="true" signature="4958:5003" ph="SELECT %s fr... " />
+            <marker date="1503639498506" expanded="true" signature="5115:5156" ph="SELECT count... robots" />
+            <marker date="1503639498506" expanded="true" signature="7114:7150" ph="insert into robots... " />
+            <marker date="1503639498506" expanded="true" signature="8505:8565" ph="insert into robots... " />
+            <marker date="1503639498506" expanded="true" signature="9013:9043" ph="DELETE FROM " />
+            <marker date="1503639498506" expanded="true" signature="9848:9894" ph="SELECT `uid`... robots" />
+            <marker date="1503639498506" expanded="true" signature="11041:11105" ph="SELECT id,ti... fav_site" />
+            <marker date="1503639498506" expanded="true" signature="12233:12291" ph="insert into fav_site_client... " />
+            <marker date="1503639498506" expanded="true" signature="12584:12638" ph="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/apis/random_site.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/tests/test_interface_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="401" column="17" lean-forward="false" selection-start-line="401" selection-start-column="17" selection-end-line="401" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/core/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/biz/request_qiniu_gcid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/apis/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/rpc_services/service/pub_site_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/rpc_services/sitepub_counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/models/pb/public_user_info_pb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/grpc_protos/user_info.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/grpc_protos/public_user_info.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/models/pb/counter_pb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3180">
+          <caret line="159" column="14" lean-forward="false" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/models/remote_grpc_counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/models/redis_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/rpc_services/rpc_client_user_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/models/pb/user_info_pb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/apis/site_store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="81" column="35" lean-forward="false" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+          <folding>
+            <element signature="e#22#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/models/mysql_model_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="67" column="24" lean-forward="false" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+          <folding>
+            <element signature="e#14#28#0" expanded="true" />
+            <marker date="1503648282934" expanded="true" signature="670:794" ph="INSERT INTO `site_pub`... " />
+            <marker date="1503648282934" expanded="true" signature="1237:1245" ph="SELECT `uid`... site_pub" />
+            <marker date="1503648282934" expanded="true" signature="1237:1317" ph="SELECT `id`,... site_pub" />
+            <marker date="1503648282934" expanded="true" signature="1237:1341" ph="SELECT `id`,... site_pub" />
+            <marker date="1503648282934" expanded="true" signature="2132:2209" ph="SELECT `uid`... site_pub" />
+            <marker date="1503648282934" expanded="true" signature="2132:2234" ph="SELECT `uid`... site_pub" />
+            <marker date="1503648282934" expanded="true" signature="2917:3046" ph="SELECT `uid`... site_pub" />
+            <marker date="1503648282934" expanded="true" signature="3439:3489" ph="SELECT `uid`... site_pub" />
+            <marker date="1503648282934" expanded="true" signature="3587:3621" ph="DELETE FROM " />
+            <marker date="1503648282934" expanded="true" signature="3587:3629" ph="DELETE FROM " />
+            <marker date="1503648282934" expanded="true" signature="3927:4010" ph="UPDATE `site... " />
+            <marker date="1503648282934" expanded="true" signature="4732:4838" ph="INSERT INTO `site_store`... " />
+            <marker date="1503648282934" expanded="true" signature="5545:5651" ph="SELECT `peer... site_store" />
+            <marker date="1503648282934" expanded="true" signature="5545:5689" ph="SELECT `peer... site_store" />
+            <marker date="1503648282934" expanded="true" signature="6007:6052" ph="DELETE FROM " />
+            <marker date="1503648282934" expanded="true" signature="6214:6283" ph="DELETE FROM " />
+            <marker date="1503648282934" expanded="true" signature="6466:6543" ph="SELECT `id`,... site_pub" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/models/rpc_client_user_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fav_site/fav_site/models/xrpc/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding>
+            <element signature="e#47#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

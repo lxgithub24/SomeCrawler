@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/counter" vcs="Git" />
+    <mapping directory="$USER_HOME$/fav_site" vcs="Git" />
+    <mapping directory="$USER_HOME$/grpc_protos" vcs="Git" />
+    <mapping directory="$USER_HOME$/live_photo" vcs="Git" />
+    <mapping directory="$USER_HOME$/prebaidureci" vcs="Git" />
+    <mapping directory="$USER_HOME$/publish_list" vcs="Git" />
+    <mapping directory="$USER_HOME$/tmp/live_photo" vcs="Git" />
+  </component>
+</project>
